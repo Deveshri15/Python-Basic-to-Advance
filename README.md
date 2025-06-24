@@ -11,12 +11,12 @@ In short, Python is a popular, high-level programming language known for its rea
 Features of Python
 
 Easy to understand = Less development time
-Free and open source
-High level language
-Easy to code
-Easy to read
-Object-Oriented Language
-Python is an Integrated language.
+                     Free and open source
+                     High level language
+                     Easy to code
+                     Easy to read
+                     Object-Oriented Language
+                     Python is an Integrated language.
 
 
 
